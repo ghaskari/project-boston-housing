@@ -1,6 +1,6 @@
 # Boston Housing Project
 
-### Project Tasks:
+## Project Tasks
 
 Task 1: Familiarize yourself with the dataset
 
@@ -12,7 +12,8 @@ Task 4: Generate basic statistics and visualizations for upper management.
 
 Task 5: Use the appropriate tests to answer the questions provided.
 
-### Data Set Information
+
+## Data Set Information
 The following describes the dataset variables:
 
 · CRIM - per capita crime rate by town
